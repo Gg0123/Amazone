@@ -1,0 +1,15 @@
+.swiper-container{
+  height: 350px;
+
+/* max-width: 1500px; */
+}
+
+
+.home__image{
+  width: 100%;
+  object-fit: contain;
+   /* margin-bottom: -150px; */
+  z-index: -1; 
+    mask-image: linear-gradient(rgba(0, 0, 0, 1), transparent); 
+}
+

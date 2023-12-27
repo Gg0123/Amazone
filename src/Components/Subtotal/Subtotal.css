@@ -1,0 +1,26 @@
+.subtotal {
+  background-color: #f3f3f3;
+  padding: 1.25rem;
+  width: 17.5rem;
+  border: 1px solid #dddddd;
+  border-radius: 0.2rem;
+}
+
+.subtotal__gift {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem 0 1.25rem 0;
+}
+
+.subtotal__checkbox {
+  margin-right: 0.25rem;
+  filter: hue-rotate(180deg);
+  /* accent-color:  #f0c14b; */
+}
+
+.subtotal__button {
+  width: 100%;
+  padding: 0.2rem 0;
+   background-color: #f0c14b;
+   border: 1px solid;
+}

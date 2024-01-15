@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Amazone/static/css/main.fe786461.css",
-    "main.js": "/Amazone/static/js/main.1b82474d.js",
+    "main.js": "/Amazone/static/js/main.97d1a50a.js",
     "index.html": "/Amazone/index.html",
     "main.fe786461.css.map": "/Amazone/static/css/main.fe786461.css.map",
-    "main.1b82474d.js.map": "/Amazone/static/js/main.1b82474d.js.map"
+    "main.97d1a50a.js.map": "/Amazone/static/js/main.97d1a50a.js.map"
   },
   "entrypoints": [
     "static/css/main.fe786461.css",
-    "static/js/main.1b82474d.js"
+    "static/js/main.97d1a50a.js"
   ]
 }

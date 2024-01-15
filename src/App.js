@@ -14,7 +14,7 @@ import { loadStripe } from "@stripe/stripe-js";
 import Orders from "./Components/Orders/Orders";
 
 const promise = loadStripe(
-  'pk_test_51OOhI5HqWj70JuVug0QYMgjgCqunPeadnGjDJvBQBBW6tjRCNYL86jKs0SBwe9J4REBu9PlcaFWd0XGiI2FMKnNr00cUSagvgT'
+  'pk_test_51OVbBdBVexaCHzUxrRwFZ9ha4rp6D4pKRlqufxwJU9pw07767q1coUjnbWwNYjdEKs7CZ2PEOsDeEGuT0a9eoHV000Yb0oWoKA'
 );
 
 
